@@ -17,7 +17,7 @@ const Portfolio = () => {
 
   const roles = [
     {
-      name: 'Supra Spartans (SupraOracles)',
+      name: 'Supra Spartans (SupraLabs)',
       role: 'Community Growth & Thought Leader',
       activities: [
         'Educating and raising awareness about SupraOracles',
@@ -98,7 +98,9 @@ const Portfolio = () => {
               </a>
             ))}
             <a 
-              href="mailto:apilpirman@gmail.com" 
+              href="https://mail.google.com/mail/?view=cm&fs=1&to=apilpirman@gmail.com&su=Kolaborasi Web3" 
+              target="_blank"
+              rel="noopener noreferrer"
               className="hover:scale-110 transition-transform"
             >
               <Mail className="w-6 h-6 text-red-500" />
@@ -191,7 +193,9 @@ const Portfolio = () => {
             Open for content collaboration, partnerships, and Web3 projects.
           </p>
           <a 
-            href="mailto:apilpirman@gmail.com" 
+            href="https://mail.google.com/mail/?view=cm&fs=1&to=apilpirman@gmail.com&su=Kolaborasi Web3" 
+            target="_blank"
+            rel="noopener noreferrer"
             className="bg-blue-500 text-white px-6 py-2 rounded-full hover:bg-blue-600 transition-colors"
           >
             Contact Me
