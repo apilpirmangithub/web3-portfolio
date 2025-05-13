@@ -1,5 +1,5 @@
 import React from 'react';
-import {Twitter, Linkedin, Mail, ShieldCheck, Brain, Globe, Languages } from 'lucide-react';
+import {User, Twitter, Linkedin, Mail, ShieldCheck, Brain, Globe, Languages } from 'lucide-react';
 
 const Portfolio = () => {
   const socialLinks = [
