@@ -74,15 +74,19 @@ const Portfolio = () => {
   ];
 
   return (
-    <div className="max-w-4xl mx-auto p-6 bg-gray-50 min-h-screen">
-      <div className="bg-white shadow-lg rounded-lg p-8">
-        {/* Header */}
-        <header className="text-center mb-8">
-          <div className="flex justify-center mb-4">
-            <User className="w-24 h-24 text-gray-600" />
-          </div>
-          <h1 className="text-3xl font-bold text-gray-800">Pirman Herlambang</h1>
-          <p className="text-xl text-gray-600">Web3 Community Builder & Content Creator</p>
+  <div className="max-w-4xl mx-auto p-6 bg-gray-50 min-h-screen">
+    <div className="bg-white shadow-lg rounded-lg p-8">
+      {/* Header */}
+      <header className="text-center mb-8">
+        <div className="flex justify-center mb-4">
+          <img 
+            src="/images/apil.jpg" 
+            alt="Pirman Herlambang" 
+            className="w-24 h-24 rounded-full object-cover border-4 border-gray-200" 
+          />
+        </div>
+        <h1 className="text-3xl font-bold text-gray-800">Pirman Herlambang</h1>
+        <p className="text-xl text-gray-600">Web3 Community Builder & Content Creator</p>
           
           {/* Social Links */}
           <div className="flex justify-center space-x-4 mt-4">
