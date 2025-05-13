@@ -85,7 +85,7 @@ const Portfolio = () => {
             className="w-24 h-24 rounded-full object-cover border-4 border-gray-200" 
           />
         </div>
-        <h1 className="text-3xl font-bold text-gray-800">Pirman Herlambang</h1>
+        <h1 className="text-3xl font-bold text-gray-800">Pirman Herlambang (Apil)</h1>
         <p className="text-xl text-gray-600">Web3 Community Builder & Content Creator</p>
           
           {/* Social Links */}
